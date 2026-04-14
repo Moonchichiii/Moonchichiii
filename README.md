@@ -5,7 +5,7 @@
 Welcome to my GitHub! I specialize in building robust, secure backend systems and streamlined CI/CD pipelines, paired with modern, lightweight frontend technologies. I believe in documentation-driven development and treating infrastructure-as-code with the same care as application logic.
 
 ### 🔭 What I'm currently working on
-* **[Market Pulse App]** - Architecting a Real-Time & Multi-Asset financial dashboard. 
+_* **[Market Pulse App]** - Architecting a Real-Time & Multi-Asset financial dashboard. Repo -> https://github.com/Moonchichiii/pulse_
 * **Focusing on:** Documentation-Driven Development, fully containerized Docker setups, strict CI/CD pipelines with GitHub Actions, and automated testing before writing business logic.
 
 ### 🛠️ Tech Stack & Tools
