@@ -5,8 +5,11 @@
 Welcome to my GitHub! I specialize in building robust, secure backend systems and streamlined CI/CD pipelines, paired with modern, lightweight frontend technologies. I believe in documentation-driven development and treating infrastructure-as-code with the same care as application logic.
 
 ### 🔭 What I'm currently working on
-_* **[Market Pulse App]** - Architecting a Real-Time & Multi-Asset financial dashboard. Repo -> https://github.com/Moonchichiii/pulse_
-* **Focusing on:** Documentation-Driven Development, fully containerized Docker setups, strict CI/CD pipelines with GitHub Actions, and automated testing before writing business logic.
+* **[Nordic Stage]** - Building an enterprise-grade, monorepo event platform. Repo -> https://github.com/Moonchichiii/nordic_stage
+* **Focusing on:** Creating a "Django 6.0 Masterclass" backend, Next.js 16 frontend, strict PR-driven workflows, fully containerized architectures, and uncompromising CI/CD pipelines.
+
+### ✨ Recently Completed
+* **[Market Pulse App]** - Architected a Real-Time & Multi-Asset financial dashboard. Repo -> https://github.com/Moonchichiii/pulse
 
 ### 🛠️ Tech Stack & Tools
 
@@ -17,6 +20,7 @@ _* **[Market Pulse App]** - Architecting a Real-Time & Multi-Asset financial das
 ![Wagtail](https://img.shields.io/badge/Wagtail-43B1B0?style=for-the-badge&logo=wagtail&logoColor=white)
 
 **Frontend**  
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTMX](https://img.shields.io/badge/htmx-%2332363b.svg?style=for-the-badge&logo=htmx&logoColor=white)
