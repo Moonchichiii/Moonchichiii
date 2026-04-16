@@ -6,7 +6,7 @@ Welcome to my GitHub! I specialize in building robust, secure backend systems an
 
 ### 🔭 What I'm currently working on
 * **[Nordic Stage]** - Building an enterprise-grade, monorepo event platform. Repo -> https://github.com/Moonchichiii/nordic_stage
-* **Focusing on:** Creating a "Django 6.0 Masterclass" backend, Next.js 16 frontend, strict PR-driven workflows, fully containerized architectures, and uncompromising CI/CD pipelines.
+* **Focusing on:** Creating a "Django 6.0" backend, Next.js 16 frontend, strict PR-driven workflows, fully containerized architectures, and uncompromising CI/CD pipelines.
 
 ### ✨ Recently Completed
 * **[Market Pulse App]** - Architected a Real-Time & Multi-Asset financial dashboard. Repo -> https://github.com/Moonchichiii/pulse
