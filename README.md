@@ -145,6 +145,8 @@ Focus areas:
 - Mobile app integration
 - Security-focused SaaS architecture
 
+🔗 https://valunds.se
+
 ---
 
 ### SkogsKvitto
@@ -159,6 +161,7 @@ Focus areas:
 - Privacy-aware data handling
 - Niche SaaS product design
 
+🔗 https://skogskvitto.se
 ---
 
 ### La Serenity
