@@ -162,6 +162,7 @@ Focus areas:
 - Niche SaaS product design
 
 🔗 https://skogskvitto.se
+
 ---
 
 ### La Serenity
