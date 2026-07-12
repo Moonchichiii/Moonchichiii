@@ -11,7 +11,7 @@ I build production SaaS applications with a focus on security, privacy, clean ar
 
 ## What I Build
 
-I focus on real products, not demos.
+I focus on real products
 
 *   **Production-ready SaaS** driven by Django, HTMX, and React.
 *   **Privacy by Design:** GDPR-aware deletion pipelines, Cloudinary media cleanup, and strict retention rules.
